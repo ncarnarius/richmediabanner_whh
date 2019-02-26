@@ -81,8 +81,8 @@ lib.ssMetadata = [
 
 
 
-(lib.Tween8 = function(mode,startPosition,loop) {
-	this.initialize(mode,startPosition,loop,{});
+(lib.Tween8 = function(mode,startPosition) {
+	this.initialize(mode,startPosition,{});
 
 	// Layer_1
 	this.instance = new lib.logo();
@@ -95,8 +95,8 @@ lib.ssMetadata = [
 p.nominalBounds = new cjs.Rectangle(-231,-43.3,462.1,86.7);
 
 
-(lib.Tween7 = function(mode,startPosition,loop) {
-	this.initialize(mode,startPosition,loop,{});
+(lib.Tween7 = function(mode,startPosition) {
+	this.initialize(mode,startPosition,{});
 
 	// Layer_1
 	this.instance = new lib.logo();
@@ -109,8 +109,8 @@ p.nominalBounds = new cjs.Rectangle(-231,-43.3,462.1,86.7);
 p.nominalBounds = new cjs.Rectangle(-226.6,-42.5,453.3,85.1);
 
 
-(lib.Symbol6 = function(mode,startPosition,loop) {
-	this.initialize(mode,startPosition,loop,{});
+(lib.Symbol6 = function(mode,startPosition) {
+	this.initialize(mode,startPosition,{});
 
 	// Layer_1
 	this.instance = new lib.facepngcopy();
@@ -124,8 +124,8 @@ p.nominalBounds = new cjs.Rectangle(0,0,112.9,124.5);
 
 
 // stage content:
-(lib.WHH_podcast_animated_v8 = function(mode,startPosition,loop) {
-	this.initialize(mode,startPosition,loop,{});
+(lib.WHH_podcast_animated_v8 = function(mode,startPosition) {
+	this.initialize(mode,startPosition,{});
 
 	// Face
 	this.instance = new lib.Symbol6("synched",0);
