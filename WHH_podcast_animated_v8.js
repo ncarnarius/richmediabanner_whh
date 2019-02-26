@@ -492,7 +492,7 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/WHH_podcast_animated_v8_atlas_.png?1551152664335", id:"WHH_podcast_animated_v8_atlas_"}
+		{src:"WHH_podcast_animated_v8_atlas_.png?1551152664335", id:"WHH_podcast_animated_v8_atlas_"}
 	],
 	preloads: []
 };
