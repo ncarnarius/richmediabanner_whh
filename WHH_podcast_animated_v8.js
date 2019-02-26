@@ -124,7 +124,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,112.9,124.5);
 
 
 // stage content:
-(lib.index = function(mode,startPosition,loop) {
+(lib.WHH_podcast_animated_v8 = function(mode,startPosition,loop) {
 	this.initialize(mode,startPosition,loop,{});
 
 	// Face
@@ -492,7 +492,7 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"WHH_podcast_animated_v8_atlas_.png?1551152664335", id:"WHH_podcast_animated_v8_atlas_"}
+		{src:"WHH_podcast_animated_v8_atlas_.png", id:"WHH_podcast_animated_v8_atlas_"}
 	],
 	preloads: []
 };
