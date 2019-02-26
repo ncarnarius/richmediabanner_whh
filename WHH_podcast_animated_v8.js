@@ -124,7 +124,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,112.9,124.5);
 
 
 // stage content:
-(lib.WHH_podcast_animated_v8 = function(mode,startPosition,loop) {
+(lib.index = function(mode,startPosition,loop) {
 	this.initialize(mode,startPosition,loop,{});
 
 	// Face
